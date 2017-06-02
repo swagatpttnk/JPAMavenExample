@@ -3,6 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.javawebtutor</groupId>
   <artifactId>JPAMavenExample</artifactId>
+  
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>JPAMavenExample</name>
