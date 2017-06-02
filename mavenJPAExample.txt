@@ -1,0 +1,1 @@
+copy mvn archetype:generate -DarchetypeCatalog=local -DgroupId=net.javabeat.eclipselink –DartifactId=EclipseLink-Installation -Dversion=1.0
